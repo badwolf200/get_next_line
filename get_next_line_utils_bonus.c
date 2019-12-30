@@ -1,17 +1,17 @@
 /* ************************************************************************** */
 /*                                                          LE - /            */
 /*                                                              /             */
-/*   get_next_line_utils.c                            .::    .:/ .      .::   */
+/*   get_next_line_utils_bonus.c                      .::    .:/ .      .::   */
 /*                                                 +:+:+   +:    +:  +:+:+    */
 /*   By: rkowalsk <rkowalsk@student.le-101.fr>      +:+   +:    +:    +:+     */
 /*                                                 #+#   #+    #+    #+#      */
 /*   Created: 2019/11/19 14:50:40 by rkowalsk     #+#   ##    ##    #+#       */
-/*   Updated: 2019/12/21 17:51:52 by rkowalsk    ###    #+. /#+    ###.fr     */
+/*   Updated: 2019/12/30 17:50:54 by rkowalsk    ###    #+. /#+    ###.fr     */
 /*                                                         /                  */
 /*                                                        /                   */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 size_t	ft_strlen(const char *s)
 {

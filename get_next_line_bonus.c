@@ -1,17 +1,17 @@
 /* ************************************************************************** */
 /*                                                          LE - /            */
 /*                                                              /             */
-/*   get_next_line.c                                  .::    .:/ .      .::   */
+/*   get_next_line_bonus.c                            .::    .:/ .      .::   */
 /*                                                 +:+:+   +:    +:  +:+:+    */
 /*   By: rkowalsk <rkowalsk@student.le-101.fr>      +:+   +:    +:    +:+     */
 /*                                                 #+#   #+    #+    #+#      */
 /*   Created: 2019/11/18 15:16:37 by rkowalsk     #+#   ##    ##    #+#       */
-/*   Updated: 2019/12/30 16:38:19 by rkowalsk    ###    #+. /#+    ###.fr     */
+/*   Updated: 2019/12/30 17:50:38 by rkowalsk    ###    #+. /#+    ###.fr     */
 /*                                                         /                  */
 /*                                                        /                   */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 char	*gnl_store_rest(char *rest, char **line)
 {
